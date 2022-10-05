@@ -1,5 +1,8 @@
 from django.urls import path, include #tao duong dan path
 from . import views
+from . import views
+from . import views
+
 
 
 urlpatterns = [
